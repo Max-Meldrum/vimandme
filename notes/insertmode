@@ -1,0 +1,8 @@
+CTRL - h , to delete back one char at the time in insert mode  ""USE THIS INSTEAD OF FUCKING BACKSPACE""
+CTRL - w , to delete back one word
+CTRL - u , to delete to start of line
+
+CTRL - o , to enter insert normal mode ""Will enter normal mode and then after one command it will go back to insert""
+
+
+
