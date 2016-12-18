@@ -1,8 +1,15 @@
-CTRL - h , to delete back one char at the time in insert mode  ""USE THIS INSTEAD OF FUCKING BACKSPACE""
+CTRL - h , to delete back one char at the time in insert mode  ""USE THIS INSTEAD OF DAMN BACKSPACE""
 CTRL - w , to delete back one word
 CTRL - u , to delete to start of line
 
 CTRL - o , to enter insert normal mode ""Will enter normal mode and then after one command it will go back to insert""
+
+CTRL - r {register} for pasting stuff from insert mode.
+CTRL - r CTRL - p {register} inserts text and fixes any unitended indentation.
+CTRL - r = for in place calculations.
+CTRL - v {code} turn any arbitrary char to its numeric code
+
+
 
 
 

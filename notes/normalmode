@@ -1,0 +1,15 @@
+f{char} - foward until {char} is found
+r - replace char where cursor is
+o - will put you in insert mode under the current line ""USE INSTEAD OF <A> <ENTER>""
+O - will put you in insert mode above the current line
+C - change/delete remaining part of the line
+
+
+# Visual mode
+
+v - char visual mode
+V - Line-wise visual mode
+CTRL - v  Block-wise visual mode
+gv - Reselect the last visual selection
+
+
